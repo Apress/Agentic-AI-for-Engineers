@@ -1,0 +1,14 @@
+{
+  "analogy_library": {
+    "value": [
+      "lock & key",
+      "secret courier",
+      "signal beacons"
+    ],
+    "updated_at": "2025-09-29T01:03:14.837720"
+  },
+  "encryption_fact": {
+    "value": "Encryption scrambles plaintext into ciphertext, unlocked with keys.",
+    "updated_at": "2025-10-07T02:38:02.747457"
+  }
+}
